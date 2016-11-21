@@ -7,7 +7,7 @@ more information.
 
 ### Stable samples
 
-  * [show-tweet-sample/](https://github.com/KoheiYamashita/TxiichaPluginSamples/tree/show-tweet-sample/) - Sample of tweet display application.
+  * [show-tweet-sample/](https://github.com/KoheiYamashita/txiicha-plugin-samples/tree/show-tweet-sample/) - Sample of tweet display application.
 
 ### Other information
 
