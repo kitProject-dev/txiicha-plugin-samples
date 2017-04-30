@@ -1,7 +1,7 @@
-#Usage
+# Usage
 
 
-##AndroidManifest.xml
+## AndroidManifest.xml
 
 ```
 <intent-filter>
@@ -10,16 +10,17 @@
 </intent-filter>
 ```
 
-##Java
+## Java
 ```
 getIntent.getExtras.getString(key)
 ```
-##Kotlin
+## Kotlin
 ```
 intent.extras.getString(key)
 ```
 
-##ShowTweetData
+## ShowTweetData
+
 | key | value | type |
 | :-- | :-- | :-- |
 | Intent.EXTRA_TEXT | Tweet text | String |
